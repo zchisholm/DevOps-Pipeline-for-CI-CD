@@ -17,7 +17,7 @@
 # Building a Secure DevOps Pipeline for Continuous Integration and Continuous Delivery (CI/CD) in AWS
 
 <p align="center">
-    <img src="https://github.com/zchisholm/DevOps-Pipeline-for-CI-CD/blob/main/docs/deliverables/DevSecOps-Pipeline-Arch-Dark.jpg" alt="DevSecOps Pipeline Arch" />
+    <img src="https://github.com/zchisholm/DevOps-Pipeline-for-CI-CD/blob/main/docs/deliverables/DevSecOps-Pipeline-Arch-Light.jpg" alt="DevSecOps Pipeline Arch" />
 </p>
 
 
